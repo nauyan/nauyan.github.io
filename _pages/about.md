@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am [Aizaz](https://www.simula.no/people/aizaz) Sharif, a __Ph.D. student__ at Simula Research Laboratory and the University of Oslo. I'm very happy to be supervised by [Dusica Marijan](https://www.simula.no/people/dusica) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud). My Ph.D. is focused on testing and validating A.I. based autonomous driving systems using deep reinforcement learning.
+I am [Nauyan](https://www.simula.no/people/aizaz) Sharif, a __Ph.D. student__ at Simula Research Laboratory and the University of Oslo. I'm very happy to be supervised by [Dusica Marijan](https://www.simula.no/people/dusica) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud). My Ph.D. is focused on testing and validating A.I. based autonomous driving systems using deep reinforcement learning.
 
 Previously, I was a __research associate__ at National Center for Cyber Security (NCCS) and worked closely in the domain of Mobile Forensics by leading a software development team. 
 
