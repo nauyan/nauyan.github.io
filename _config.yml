@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aizaz Sharif"
+title                    : "Syed Nauyan Rashid"
 title_separator          : "-"
-name                     : &name "Aizaz Sharif"
-description              : &description "PhD Researcher @ Simula, Norway"
-url                      : https://aizazsharif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Syed Nauyan Rashid"
+description              : &description "PhD Researcher @ NUST SEECS"
+url                      : https://nauyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aizazsharif/aiazsharif.github.io"
+repository               : "nauyan/nauyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : AizazSharif420
+  username               : nauyanrashid
 facebook:
   username               :
   app_id                 :
@@ -89,15 +89,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aizaz Sharif"
+  name             : "Syed Nauyan Rashid"
   avatar           : "profile.jpeg"
   bio              : "PhD Researcher, Computer Science Major, Researcher, and a Philomath"
-  location         : "Oslo, Norway"
-  employer         : "Simula"
+  location         : "Islamabad, Pakistan"
+  employer         : "Red Buffer"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=luceUvgAAAAJ&hl"
-  email            : "aizaz@simula.no"
-  researchgate     :  "https://www.researchgate.net/profile/Aizaz_Sharif"
+  googlescholar    : "https://scholar.google.com/citations?user=YKIRl2oAAAAJ&hl=en"
+  email            : "nauyan@hotmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -105,20 +105,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AizazSharif"
+  github           : "nauyan"
   google_plus      :
   keybase          :
-  instagram        : "aizaz_sharif"
+  instagram        : "nauyanrashid"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "aizazsharif"
-  orcid            : "http://orcid.org/0000-0003-1860-813X"
+  linkedin         : "nauyan"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AizazSharif420"
+  twitter          : "nauyanrashid"
   vine             :
   weibo            :
   xing             :
