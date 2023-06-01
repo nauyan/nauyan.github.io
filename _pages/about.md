@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 
-I am [Nauyan](https://www.simula.no/people/aizaz) Sharif, a __Ph.D. student__ at Simula Research Laboratory and the University of Oslo. I'm very happy to be supervised by [Dusica Marijan](https://www.simula.no/people/dusica) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud). My Ph.D. is focused on testing and validating A.I. based autonomous driving systems using deep reinforcement learning.
+I am Syed [Nauyan](https://www.linkedin.com/in/nauyan/) Rashid, a __Staff Machine(Deep) Learning Engineer__ at Red Buffer.
 
-Previously, I was a __research associate__ at National Center for Cyber Security (NCCS) and worked closely in the domain of Mobile Forensics by leading a software development team. 
 
-You can find my resume [here](AizazSharifResume2020.pdf).
+You can find my resume [here](Resume-v10.0.pdf).
 
 <span style="color:darkblue">News </span>
 
-* 10/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg is now also available at [arxiv](https://arxiv.org/abs/2110.07443). 
+<!-- * 10/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg is now also available at [arxiv](https://arxiv.org/abs/2110.07443). 
 * 09/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg in the field of Software Testing and Test Case Prioritization.
 * 08/2021 Fully vaccinated !!
 * 12/2020 Reviewed 3 ISSRE Papers as a sub-reviewer. 
@@ -35,4 +34,4 @@ You can find my resume [here](AizazSharifResume2020.pdf).
 * 11/2019 Visiting Nagasaki, Japan to appear at [CANDAR'19](https://is-candar.org/) for presenting my Master's thesis: [Function Identification in Android Binaries with Deep Learning](https://ieeexplore.ieee.org/abstract/document/8958412/).
 * 10/2019 Graduated as M.Sc. Computer Science in the [FAST NUCES](https://www.nu.edu.pk/) under the supervision of [Muhammad Nauman](https://recluze.net/).
 * 09/2019 __1__ conference paper accepted to __CANDAR 2019__, Japan.
-* 07/2019 __1__ journal paper published to __Transactions on Emerging Telecommunications Technologies__.
+* 07/2019 __1__ journal paper published to __Transactions on Emerging Telecommunications Technologies__. -->
