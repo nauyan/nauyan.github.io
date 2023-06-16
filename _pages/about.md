@@ -20,7 +20,8 @@ You can find my resume [here](Resume-v10.0.pdf).
 * 12/2020 Joined [Red Buffer](https://redbuffer.ai/) as a Senior Machine Learning Engineer under the mentorship of [Tayyab Tariq](https://www.linkedin.com/in/tayyabtariq/) 
 * 11/2020 Cleared both major and minor exams of Ph.D Qualifier A 
 * 06/2020 Completed Ph.D course work with major courses i.e Computer Vision, Advanced Computer Vision, Deep Learning and Machine Learning
-* 09/2019 Started Ph.D in Computer Science under the supervison of (Dr. Muhammad Moazam Fraz)[https://www.linkedin.com/in/moazamfraz]
+* 10/2019 Joined [Machine Vision and Learning Lab](https://vision.seecs.edu.pk/) as a Doctoral Researcher
+* 09/2019 Started Ph.D in Computer Science under the supervison of [Dr. Muhammad Moazam Fraz](https://www.linkedin.com/in/moazamfraz)
 * 06/2019 Went solo on Hajj Pilgrimage
 * 05/2019 Started working as a Machine Learning Engineer at [Esper Solutions](https://www.linkedin.com/company/esper-solutions/)
 * 12/2018 Sucessfully defended my thesis and gradudated with a Master's Degree in Computer Science
