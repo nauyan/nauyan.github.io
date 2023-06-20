@@ -15,11 +15,20 @@ I am Syed [Nauyan](https://www.linkedin.com/in/nauyan/) Rashid, a __Staff Machin
 You can find my resume [here](Resume-v10.0.pdf).
 
 <span style="color:darkblue">News </span>
+* 05/2023 Wrote a medium article titled ["Getting Started with PyTorch Distributed"](https://medium.com/p/54ae933bb9f0)
+* 04/2023 Publised journal paper titled ["Nuclei Probability and Centroid Map Network for Nuclei Instance Segmentation in Histology Images"](https://link.springer.com/article/10.1007/s00521-023-08503-2) in Neural Computing and Application
+* 03/2022 Wrote a medium article titled ["Setting Up Spark Cluster and Submitting Your First Spark Job"](https://medium.com/p/13410e7ac71f)
+* 01/2022 Publised journal paper titled ["Early-Stage Segmentation and Characterization of Brain Tumor"](https://cdn.techscience.cn/ueditor/files/cmc/TSP_CMC-73-1/TSP_CMC_23135/TSP_CMC_23135.pdf) in CMC
 * 01/2022 Appointed Teaching Assitant (TA) for Advanced Computer Vision (CS-893) at NUST-SEECS for Spring 2022
+* 12/2022 Published a medium article on ["Spinning a Docker Container with Cuda Enabled TensorFlow"](https://medium.com/p/99d3d18655ec)
+* 11/2021 Published a medium article titled ["Semantic Segmentation: U-Net"](https://medium.com/p/1e5c0f4516a5)
 * 09/2021 Appointed Teaching Assitant (TA) for Computer Vision (CS-867) at NUST-SEECS for Fall 2021
+* 08/2021 Wrote an article on medium titled ["Setting up PyTorch and TensorFlow on a Windows Machine"](https://medium.com/red-buffer/setting-up-pytorch-and-tensorflow-on-a-windows-machine-7b860855d9f8)
+* 05/2021 Wrote an article on medium titled ["Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images"](https://medium.com/p/6cd56b857ce6)
+* 03/2021 Published medium article on ["AI in Computational Pathology"](https://medium.com/p/d05d8f9f3c03)
 * 03/2021 Cleared Ph.D Synopsis Defence titled "Deep Learning Based Cancer Image Analytics for Identification of Prognostic Digital Biomarkers"
 * 01/2021 Appointed Teaching Assitant (TA) for Deep Learning (CS-878) at NUST-SEECS for Spring 2021
-* 12/2020 Publised paper titled ["Multiscale Dilated Unet for Segmentation of Multi-Organ Nuclei in Digital Histology Images"](https://ieeexplore.ieee.org/abstract/document/9322833/) in HONET 2020
+* 12/2020 Publised conference paper titled ["Multiscale Dilated Unet for Segmentation of Multi-Organ Nuclei in Digital Histology Images"](https://ieeexplore.ieee.org/abstract/document/9322833/) in HONET 2020
 * 12/2020 Joined [Red Buffer](https://redbuffer.ai/) as a Senior Machine Learning Engineer under the mentorship of [Tayyab Tariq](https://www.linkedin.com/in/tayyabtariq/) 
 * 11/2020 Cleared both major and minor exams of Ph.D Qualifier A 
 * 09/2020 Appointed Teaching Assitant (TA) for Computer Vision (CS-867) at NUST-SEECS for Fall 2020
