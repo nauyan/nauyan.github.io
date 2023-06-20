@@ -15,10 +15,14 @@ I am Syed [Nauyan](https://www.linkedin.com/in/nauyan/) Rashid, a __Staff Machin
 You can find my resume [here](Resume-v10.0.pdf).
 
 <span style="color:darkblue">News </span>
+* 01/2022 Appointed Teaching Assitant (TA) for Advanced Computer Vision (CS-893) at NUST-SEECS for Spring 2022
+* 09/2021 Appointed Teaching Assitant (TA) for Computer Vision (CS-867) at NUST-SEECS for Fall 2021
 * 03/2021 Cleared Ph.D Synopsis Defence titled "Deep Learning Based Cancer Image Analytics for Identification of Prognostic Digital Biomarkers"
-* 12/2023 Publised paper titled ["Multiscale Dilated Unet for Segmentation of Multi-Organ Nuclei in Digital Histology Images"](https://ieeexplore.ieee.org/abstract/document/9322833/) in HONET 2020
+* 01/2021 Appointed Teaching Assitant (TA) for Deep Learning (CS-878) at NUST-SEECS for Spring 2021
+* 12/2020 Publised paper titled ["Multiscale Dilated Unet for Segmentation of Multi-Organ Nuclei in Digital Histology Images"](https://ieeexplore.ieee.org/abstract/document/9322833/) in HONET 2020
 * 12/2020 Joined [Red Buffer](https://redbuffer.ai/) as a Senior Machine Learning Engineer under the mentorship of [Tayyab Tariq](https://www.linkedin.com/in/tayyabtariq/) 
 * 11/2020 Cleared both major and minor exams of Ph.D Qualifier A 
+* 09/2020 Appointed Teaching Assitant (TA) for Computer Vision (CS-867) at NUST-SEECS for Fall 2020
 * 06/2020 Completed Ph.D course work with major courses i.e Computer Vision, Advanced Computer Vision, Deep Learning and Machine Learning
 * 10/2019 Joined [Machine Vision and Learning Lab](https://vision.seecs.edu.pk/) as a Doctoral Researcher
 * 09/2019 Started Ph.D in Computer Science under the supervison of [Dr. Muhammad Moazam Fraz](https://www.linkedin.com/in/moazamfraz)
