@@ -19,6 +19,7 @@ redirect_from:
 {% endfor %} -->
 
 
-{% for project in site.projects reversed %}
+{% for project in site.projects %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ project }}</h2>
   {% include archive-single-talk.html %}
 {% endfor %}
