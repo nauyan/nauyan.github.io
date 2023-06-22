@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I am Syed [Nauyan](https://www.linkedin.com/in/nauyan/) Rashid, a __Staff Machine(Deep) Learning Engineer__ at Red Buffer.
-
+Syed [Nauyan](https://www.linkedin.com/in/nauyan/) Rashid is a __Staff Machine(Deep) Learning Engineer__ with over 7 years of experience in building scalable AI pipelines for international clients, government agencies, and startups. He specializes in Computer Vision, Deep Learning, and MLOps tools, leveraging his expertise to develop scalable machine learning and artificial intelligence pipelines. Currently pursuing a Ph.D. focused on Giga-Pixel Biomedical Imaging and Cancer Diagnosis, Syed has a strong background in deep learning, computer vision, and data science. His professional experience includes serving as a Tech Lead at RedBuffer, where he orchestrated multi-note, multi-GPU training pipelines, built scalable cloud cost anomaly detection systems, and developed computer vision-based safety applications. As a Doctoral Researcher at NUST-SEECS, he developed semantic segmentation and nuclei instance segmentation pipelines for cellular community detection. Prior to that, he worked as a Machine Learning Engineer at Esper Solutions, where he developed applications for automatic license plate recognition, vehicle counting and recognition, and image super-resolution. Syed also has experience as a BI Analyst/Data Scientist at Information-Architects, where he developed BI dashboards, ETL pipelines, predictive models, and monitoring and evaluation systems. With a strong technical skill set including Python, Java, C++, TensorFlow, Keras, and AWS SageMaker, Syed is well-equipped to drive AI and ML initiatives and contribute to cutting-edge research and development in the field.
 
 You can find my resume [here](Resume-v10.0.pdf).
 
