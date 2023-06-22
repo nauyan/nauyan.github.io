@@ -16,7 +16,7 @@ main:
   #   url: /portfolio/
         
   - title: "Medium Articles"
-    url: /year-archive/
+    url: /medium-articles/
 
   - title: "Projects"
     url: /year-archive/
