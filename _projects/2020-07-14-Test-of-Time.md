@@ -1,6 +1,6 @@
 ---
 title: "From Square Root SAM to GTSAM: Factor Graphs in Robotics"
-collection: talks
+collection: projects
 type: "Talk"
 permalink: /projects/Test-of-Time
 venue: "RSS Keynote"
