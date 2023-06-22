@@ -1,6 +1,6 @@
 ---
 title: "AI in Computational Pathology"
-date:   2021-03-26
+date:   2022-03-26
 permalink: /AI-in-Computational-Pathology/
 tags:
   - Machine Learning
