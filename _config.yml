@@ -261,9 +261,8 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: talk
-      author_profile: false
-      share: true
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:

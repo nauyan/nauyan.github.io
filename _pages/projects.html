@@ -6,7 +6,18 @@ author_profile: true
 ---
 
 
-{% for project in site.projects %}
+<!-- {% for project in site.projects %}
   <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ project }}</h2>
   {% include archive-single-talk.html %}
+{% endfor %} -->
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for project in site.projects %}
+  {% capture year %}{{ project.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
 {% endfor %}
