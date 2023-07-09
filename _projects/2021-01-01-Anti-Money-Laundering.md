@@ -1,14 +1,15 @@
 ---
-title: "Sports Memorabilia"
-date:   2020-11-01
-permalink: /Sports-Memorabilia/
+title: "Anti-Money Laundering Detection from Transaction Data"
+date:   2021-01-01
+permalink: /Anti-Money-Laundering-Detection-from-Transaction-Data/
 tags:
-  - Computer Vision
-  - Deep Learning
-  - One-Shot Learning
+  - Machine Learning
+  - Anomaly Detection
+  - Power BI
+  - SQL
+  - Pandas
+  - Scikit-Learn
   - Python
-  - PyTorch
-  - Android App
 ---
 
-The goal of this project is to build a mobile app that can take a photograph of a baseball card and identify the baseball card from a database of baseball cards. Once matching is complete, all the metadata of the baseball card is to be returned to the end-user. The Machine Learning part consists of database that will contain all the extracted features from the final layer of the images of baseball cards and a similarity search feature that will take input an image, create its features by running a forward pass from the model then returns the results (of most similar card from database) of that card. The stack used for this project was Python, PyTorch and Android App. I was involved in training and developing the matching algorithm. Additionally, I collaborated with the mobile application team for APIs for communication of mobile applications with the machine learning backend.
+The focus of the project was to develop an anti-money laundering system that is able to flag suspicious transactions. This system monitored historical data and monitored rules against peer groups which were the basis of Transaction Flagging. The stack used for this project was Python, Scikit-Learn and SQL. I conducted R&D, data gathering and model training using KYC data. The results of the trained model were then visualized using PowerBI.    
